@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando na **Engineering do Brasil**
 
-- 🌱 Atualmente estou aprendendo **Front-end e Back-End**
+- 🌱 Estou aprendendo **Front-end e Back-End**
 
 - 💬 Me pergunte sobre **Front-End e Back-End**
 
